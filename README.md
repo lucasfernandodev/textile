@@ -1,6 +1,6 @@
 <img src="./docs/design.png" alt="design preview">
 
-# Challenge Codepen - Textile
+# 🧶 CodePen Challenge - Textile
 
 Project developed for the codepen development challenge, this week's theme is 'textile', and that's why I decided to create a simple app to change clothes.
 

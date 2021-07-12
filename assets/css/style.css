@@ -106,6 +106,8 @@ h1 {
   height: 2px;
   background: #444;
   position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
   display: flex;
   bottom: 0;
 }
